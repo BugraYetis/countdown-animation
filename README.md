@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Countdown
+# ⚡ Countdown
 
 **GSAP Animasyon · Animasyonlu Geri Sayım**
 
